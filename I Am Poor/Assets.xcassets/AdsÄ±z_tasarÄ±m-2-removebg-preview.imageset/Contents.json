@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "AdsÄ±z_tasarÄ±m-2-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "AdsÄ±z_tasarÄ±m-2-removebg-preview@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "AdsÄ±z_tasarÄ±m-2-removebg-preview@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
